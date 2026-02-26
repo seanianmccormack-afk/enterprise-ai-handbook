@@ -26,4 +26,4 @@ Read it straight through or jump to the section that matches where you are. Each
 Contributing
 War stories, corrections, better data, sharper frameworks — all welcome. Open a pull request or start a discussion. The goal is a living document written by practitioners, not vendors.
 License
-CC BY 1.0. Use it, adapt it, distribute it.
+CC Zero v1.0 Universal. Use it, adapt it, distribute it.
